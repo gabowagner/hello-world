@@ -1,5 +1,5 @@
-# ignore ALL .log files
+# ignore TODOS los archivos .log
 *.log
 
-# ignore ALL files in ANY directory named temp
+# ignora TODOS los archivos dentro de un directorio llamado temp
 temp/
